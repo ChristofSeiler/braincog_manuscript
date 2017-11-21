@@ -2,9 +2,6 @@
 
 R markdown to analysis and figures in:
 
-```
-Multi-Table Differential Correlation Analysis of 
-Neuroanatomical and Cognitive Interactions in Turner Syndrome
-C. Seiler, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss
-Accepted for publication in the journal Neuroinformatics
-```
+1. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br> 
+**C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss <br>
+accepted for publication in the journal Neuroinformatics
