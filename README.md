@@ -1,4 +1,4 @@
-# Supplementary Material for `braincog` manuscript
+# Supplementary Material
 
 Supplementary material for
 
