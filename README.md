@@ -14,7 +14,7 @@ R package:
 
 * [braincog](https://github.com/ChristofSeiler/braincog)
 
-Analysis R markdown:
+Analysis R markdown source:
 
 * [Interactions.Rmd](Interactions.Rmd)
 
