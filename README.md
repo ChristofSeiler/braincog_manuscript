@@ -14,6 +14,10 @@ R package is available here:
 
 * [braincog](https://github.com/ChristofSeiler/braincog)
 
+Analysis R markdown is available here:
+
+* [Interactions.Rmd](Interactions.Rmd)
+
 Anaysis reports are available here:
 
 * [Interactions 0](https://christofseiler.github.io/braincog/supplementary_materials/Interactions_0.html)
