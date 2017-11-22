@@ -6,19 +6,19 @@ Supplementary material for
 **C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss <br>
 accepted for publication in the journal Neuroinformatics
 
-Manuscript is available here:
+Manuscript:
 
 * [BrainCognitionArticle_Neuroinformatics](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf)
 
-R package is available here:
+R package:
 
 * [braincog](https://github.com/ChristofSeiler/braincog)
 
-Analysis R markdown is available here:
+Analysis R markdown:
 
 * [Interactions.Rmd](Interactions.Rmd)
 
-Anaysis reports are available here:
+Anaysis reports:
 
 * [Interactions 0](https://christofseiler.github.io/braincog/supplementary_materials/Interactions_0.html)
 * [Interactions 1](https://christofseiler.github.io/braincog/supplementary_materials/Interactions_1.html)
